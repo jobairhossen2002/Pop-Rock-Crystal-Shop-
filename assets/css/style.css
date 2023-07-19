@@ -1,0 +1,45 @@
+  /* global_start */
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  /* global_end */
+
+  /* Attributes_decoration start */
+  a {
+    text-decoration: none;
+  }
+  /* Attributes_decoration end */
+
+  /* list_style start */
+  li{
+    list-style: none;
+  }
+  /* list_style start */
+
+  body{
+    background-color: rgb(0, 195, 255);
+  }
+
+  /* container _start */
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+  }
+  /* container_end */
+
+  /* css_logo start */
+.container .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    padding-top: 10px;
+}
+/* css_logo end */
+
+/* navigation_start */
+.conrainer
+/* navigation_end */
